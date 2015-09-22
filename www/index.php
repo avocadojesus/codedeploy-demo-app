@@ -1,7 +1,6 @@
 <?php
 
-// $AppName = "Updated Demo App";
-$AppName =Hello World! "Demo App";
+$AppName = "Demo App";
 
 ob_start();
 
